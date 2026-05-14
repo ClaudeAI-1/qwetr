@@ -6,6 +6,9 @@ const App = () => {
       <h1>hello</h1>
       <h1>hell</h1>
       <h1>hello</h1>
+      <p>salom
+        
+      </p>
       <h1>hello</h1>
       <h1>hello</h1>
     </div>
